@@ -4,4 +4,5 @@ Code and schematics for a wearable live audio spectrum visualizer as part of a c
 
 ## Demo
 
-![kagamine len cosplay](./kagamine_len.mov)
+https://github.com/scoliono/len-irl/assets/2191476/3cec9cb2-a4d4-47c1-b35b-5b873b302a39
+
